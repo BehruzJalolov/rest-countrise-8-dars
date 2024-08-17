@@ -1,0 +1,125 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a {
+    list-style: none;
+}
+ul {
+    text-decoration: none;
+}
+.site-container {
+    
+    
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    padding-left: 25px;
+    column-gap: 937px;
+    padding-right: 25px;
+    
+    
+}
+.site-container-menu {
+    color: #111517;
+    font-size: 24px;
+    font-weight: 800;
+
+}
+.site-header-dark-mode {
+    color: #111517;
+    font-size: 16px;
+    font-weight: 600;
+
+}
+.ite-image {
+    width: 20px;
+    height: 20px;
+}
+.search-from-menu {
+    width: 400px;
+    height: 56px;
+    border-radius: 5px;
+    background: #fff;
+    box-shadow: 0px 2px 9px 0px rgba(0, 0, 0, 0.05);
+    
+    padding-top: 18px;
+    padding-bottom: 18px;
+    padding-left: 3px;
+
+}
+.search-from {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.container-menu {
+    width: 200px;
+    height: 56px;
+    border-radius: 5px;
+    background: #fff;
+    box-shadow: 0px 2px 9px 0px rgba(0, 0, 0, 0.05);
+    text-align: center;
+    padding-top: 18px;
+    padding-bottom: 18px;
+}
+.search-input__item:focus {
+    outline: none;
+
+}
+.site-header {
+    padding-bottom: 48px;
+}
+.search {
+    padding-bottom: 48px;
+}
+.container-funter {
+    padding-top: 40px;
+    column-gap: 60px;
+}
+.ite-from-futer {
+    width: 267px;
+    height: 160px;
+    
+    
+}
+.site-text-futer {
+    color: #111517;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 26px;
+}
+.btn {
+    padding-top: 24px;
+    padding-bottom: 16px;
+    
+}
+.site-futer-text {
+    color:#111517;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 16px;
+    padding-bottom: 8px;
+    
+}
+.site-container-futer {
+    width: 280px;
+    height: 336px;
+    border-radius: 5px;
+    background: #fff;
+    box-shadow: 0px 0px 7px 2px rgba(0, 0, 0, 0.03);
+}
+.site-futer {
+    display: flex;
+    column-gap: 61px;
+    padding-left: 1px;
+}
+.image {
+    max-width: 303px;
+    width: 100%;
+    
+}
+
